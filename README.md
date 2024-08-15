@@ -1,1 +1,1 @@
-# CODSOFT_Java_GradeCalculator
+# CODSOFT_JAVA_GradeCalculator
